@@ -22,3 +22,10 @@ Originated in UNSW COMP9444 as team project material. Individual module attribut
 ## Verification status
 
 Python syntax was checked and Notebook outputs were cleared. Models were not retrained. The evaluation leakage described above remains unresolved; historical metrics are not evidence of generalization.
+
+
+## Historical reports
+
+The reports preserve saved coursework observations and team context. They are not fresh benchmark or runtime verification.
+
+- [Historical presentation results and evaluation limits](docs/historical-presentation-report.md)
